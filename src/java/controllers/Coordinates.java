@@ -7,7 +7,7 @@ package controllers;
 
 /**
  *
- * @author Vigneet Sompura
+ * @author SS
  */
 public class Coordinates {
     float longitude;
